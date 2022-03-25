@@ -9,7 +9,7 @@ Summary:	Sphinx extension to build a 404 page with absolute URLs
 Summary(pl.UTF-8):	Rozszerzenie Sphinksa do tworzenia strony 404 z bezwzględnymi URL-ami
 Name:		python-sphinx-notfound-page
 Version:	0.8
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sphinx-notfound-page/
